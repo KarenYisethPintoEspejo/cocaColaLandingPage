@@ -3,6 +3,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KP398UANzfw?si=rZW8KDYi1EujsnaW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+
 --------display: flex; "Estoy usando display: flex; en mi contenedor principal, .container. Esto hace que todos los elementos dentro de ese contenedor sean flexibles, como si estuvieran en una especie de caja mágica que los hace más fáciles de organizar."
 
 --------justify-content: center;"Con justify-content: center; le digo al contenedor que quiero que los elementos se centren horizontalmente. Es como decirles a mis elementos que se coloquen en el medio de la caja, de izquierda a derecha."
