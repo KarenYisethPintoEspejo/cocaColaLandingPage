@@ -1,6 +1,3 @@
-/* *{
-    font-family: bahnschrift;
-} */
 
 *{
     padding: 0;
@@ -30,7 +27,7 @@
 .left h1{
     color: #ec1321;
     left: 10%;
-    top: 20%;
+    top: 25%;
     position: relative;
     font-size: 60px;
 }
@@ -147,3 +144,49 @@ button:hover{
     width: 100%;
     transition: 0.2s ease;
 }
+
+img{
+    height: 450px;
+    right: 10%;
+    top: 20%;
+    position: absolute;
+
+}
+
+.media-shop{
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.media-shop svg{
+    width: 40px;
+}
+
+.media-shop path{
+    fill: #fff;
+}
+
+.media-shop a{
+    margin: 20px;
+}
+
+.media-shop a:nth-child(1)svg{
+    margin-top: -5px;
+    width: 600px;
+}
+
+.media-shop a:nth-child(2) svg{
+    margin-top: -5px;
+    width: 50px;
+}
+.media-shop a:nth-child(3) svg{
+    width: 300px;
+}
+
+
